@@ -8,4 +8,4 @@ FROM eclipse-temurin:21-jre-alpine
 WORKDIR /server
 COPY . /server
 EXPOSE 25565
-ENTRYPOINT ["java", "-Xmx1536M", "-Xms1536M", "-jar", "paper-1.20.4.jar", "nogui"]
+ENTRYPOINT ["java", "-Xmx1536M", "-Xms1536M", "-jar", "server.jar", "nogui"]
