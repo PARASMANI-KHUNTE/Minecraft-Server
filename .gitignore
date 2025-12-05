@@ -1,0 +1,13 @@
+# Minecraft Server Generated Files (Must be Ignored)
+
+# Ignore the entire logs directory
+logs/
+
+# Ignore world files, as they are large binary files
+world/
+world_nether/
+world_the_end/
+
+# Ignore temporary and lock files
+session.lock
+cache/
