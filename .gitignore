@@ -2,6 +2,10 @@
 
 # Ignore the entire logs directory
 logs/
+/GamePanel/storage
+/GamePanel/agent/node_modules
+/GamePanel/agent/logs
+/GamePanel/panel-ui/node_modules
 
 # Ignore world files, as they are large binary files
 world/

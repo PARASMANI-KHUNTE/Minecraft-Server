@@ -1,87 +1,29 @@
-[22:01:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[22:01:56] [ServerMain/INFO]: Loaded 1461 recipes
-[22:01:56] [ServerMain/INFO]: Loaded 1574 advancements
-[22:01:57] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[22:01:57] [Server thread/INFO]: Loading properties
-[22:01:57] [Server thread/INFO]: Default game type: SURVIVAL
-[22:01:57] [Server thread/INFO]: Generating keypair
-[22:01:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:01:57] [Server thread/INFO]: Using default channel type
-[22:01:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:01:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:01:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:01:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:01:57] [Server thread/INFO]: Preparing level "LandofCraft"
-[22:01:57] [Server thread/INFO]: Loading 0 persistent chunks...
-[22:01:57] [Server thread/INFO]: Preparing spawn area: 100%
-[22:01:57] [Server thread/INFO]: Time elapsed: 19 ms
-[22:01:57] [Server thread/INFO]: Done (0.373s)! For help, type "help"
-[22:02:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:21:53] [Server thread/INFO]: PARAS[/127.0.0.1:64433] logged in with entity id 78 at (-6.247589617893624, 98.0, -7.158894095055808)
-[22:21:53] [Server thread/INFO]: PARAS joined the game
-[22:22:14] [Server thread/INFO]: PARAS lost connection: Disconnected
-[22:22:14] [Server thread/INFO]: PARAS left the game
-[22:22:17] [Server thread/INFO]: PARAS[/127.0.0.1:63090] logged in with entity id 389 at (-7.761897991434022, 99.0, -8.413967257605215)
-[22:22:17] [Server thread/INFO]: PARAS joined the game
-[22:22:39] [Server thread/INFO]: PARAS lost connection: Disconnected
-[22:22:39] [Server thread/INFO]: PARAS left the game
-[22:22:43] [Server thread/INFO]: PARAS[/127.0.0.1:61999] logged in with entity id 706 at (1.601451608192442, 96.0, -5.04784398006745)
-[22:22:43] [Server thread/INFO]: PARAS joined the game
-[22:22:51] [Server thread/INFO]: PARAS lost connection: Disconnected
-[22:22:51] [Server thread/INFO]: PARAS left the game
-[22:23:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:28:00] [Server thread/INFO]: susu[/127.51.179.141:51650] logged in with entity id 1007 at (0.5, 94.0, 5.5)
-[22:28:00] [Server thread/INFO]: susu joined the game
-[22:28:19] [Server thread/INFO]: PARAS[/127.0.0.1:65055] logged in with entity id 1327 at (-0.7623464770600017, 96.0, -3.8180596158338203)
-[22:28:19] [Server thread/INFO]: PARAS joined the game
-[22:28:26] [Server thread/INFO]: PARAS lost connection: Disconnected
-[22:28:26] [Server thread/INFO]: PARAS left the game
-[22:28:58] [Server thread/INFO]: PARAS[/127.203.10.82:58938] logged in with entity id 1385 at (1.8665787160417107, 96.0, -5.346051184748449)
-[22:28:58] [Server thread/INFO]: PARAS joined the game
-[22:32:43] [Server thread/INFO]: PARAS lost connection: Disconnected
-[22:32:43] [Server thread/INFO]: PARAS left the game
-[22:32:51] [Server thread/INFO]: susu lost connection: Disconnected
-[22:32:51] [Server thread/INFO]: susu left the game
-[22:33:06] [Server thread/INFO]: susu[/127.51.179.141:55152] logged in with entity id 2260 at (60.32305320437681, 87.0, 61.87774028475588)
-[22:33:06] [Server thread/INFO]: susu joined the game
-[22:33:21] [Server thread/INFO]: PARAS[/127.0.0.1:63723] logged in with entity id 2486 at (9.719386894583337, 86.0, 123.77381451385271)
-[22:33:21] [Server thread/INFO]: PARAS joined the game
-[22:33:25] [Server thread/INFO]: PARAS lost connection: Disconnected
-[22:33:25] [Server thread/INFO]: PARAS left the game
-[22:33:55] [Server thread/INFO]: susu lost connection: Disconnected
-[22:33:55] [Server thread/INFO]: susu left the game
-[22:34:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:36:05] [Server thread/INFO]: PARAS[/127.0.0.1:56198] logged in with entity id 2758 at (9.719386894583337, 86.0, 123.77381451385271)
-[22:36:05] [Server thread/INFO]: PARAS joined the game
-[22:36:08] [Server thread/INFO]: PARAS lost connection: Disconnected
-[22:36:08] [Server thread/INFO]: PARAS left the game
-[22:36:17] [Server thread/INFO]: PARAS[/127.0.0.1:56792] logged in with entity id 3054 at (9.719386894583337, 86.0, 123.77381451385271)
-[22:36:17] [Server thread/INFO]: PARAS joined the game
-[22:36:50] [Server thread/INFO]: PARAS lost connection: Disconnected
-[22:36:50] [Server thread/INFO]: PARAS left the game
-[22:37:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:40:03] [Server thread/INFO]: susu[/127.51.179.141:64278] logged in with entity id 3425 at (7.239253031967171, 88.0, 57.06816814595644)
-[22:40:03] [Server thread/INFO]: susu joined the game
-[22:45:07] [Server thread/INFO]: PARAS[/127.0.0.1:49231] logged in with entity id 4149 at (17.398652416539782, 80.0, 138.5015320933506)
-[22:45:07] [Server thread/INFO]: PARAS joined the game
-[22:45:38] [Server thread/INFO]: PARAS has made the advancement [Stone Age]
-[22:46:27] [Server thread/INFO]: PARAS lost connection: Disconnected
-[22:46:27] [Server thread/INFO]: PARAS left the game
-[22:46:34] [Server thread/INFO]: susu lost connection: Disconnected
-[22:46:34] [Server thread/INFO]: susu left the game
-[22:47:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:50:11] [Server thread/INFO]: PARAS[/127.0.0.1:49295] logged in with entity id 4577 at (41.61232687100351, 80.0, 99.18585103065121)
-[22:50:11] [Server thread/INFO]: PARAS joined the game
-[22:50:51] [Server thread/INFO]: PARAS has made the advancement [Getting an Upgrade]
-[22:51:42] [Server thread/INFO]: PARAS lost connection: Disconnected
-[22:51:42] [Server thread/INFO]: PARAS left the game
-[22:51:50] [Server thread/INFO]: Stopping server
-[22:51:50] [Server thread/INFO]: Saving players
-[22:51:50] [Server thread/INFO]: Saving worlds
-[22:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LandofCraft]'/minecraft:overworld
-[22:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LandofCraft]'/minecraft:the_end
-[22:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LandofCraft]'/minecraft:the_nether
-[22:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (LandofCraft): All chunks are saved
-[22:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:51:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:15:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[14:15:09] [ServerMain/INFO]: Loaded 1461 recipes
+[14:15:09] [ServerMain/INFO]: Loaded 1574 advancements
+[14:15:09] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[14:15:09] [Server thread/INFO]: Loading properties
+[14:15:09] [Server thread/INFO]: Default game type: SURVIVAL
+[14:15:09] [Server thread/INFO]: Generating keypair
+[14:15:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:15:10] [Server thread/INFO]: Using default channel type
+[14:15:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:15:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:15:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:15:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:15:10] [Server thread/INFO]: Preparing level "LandofCraft"
+[14:15:10] [Server thread/INFO]: Loading 0 persistent chunks...
+[14:15:10] [Server thread/INFO]: Preparing spawn area: 100%
+[14:15:10] [Server thread/INFO]: Time elapsed: 13 ms
+[14:15:10] [Server thread/INFO]: Done (0.365s)! For help, type "help"
+[14:15:23] [Server thread/INFO]: Stopping the server
+[14:15:23] [Server thread/INFO]: Stopping server
+[14:15:23] [Server thread/INFO]: Saving players
+[14:15:23] [Server thread/INFO]: Saving worlds
+[14:15:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LandofCraft]'/minecraft:overworld
+[14:15:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LandofCraft]'/minecraft:the_end
+[14:15:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[LandofCraft]'/minecraft:the_nether
+[14:15:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (LandofCraft): All chunks are saved
+[14:15:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:15:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:15:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

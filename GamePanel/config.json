@@ -1,0 +1,9 @@
+{
+    "defaultServer": {
+        "name": "Default Server",
+        "path": "f:\\Codes\\Minecraft Server",
+        "javaPath": "java",
+        "ramMin": 1024,
+        "ramMax": 4096
+    }
+}
